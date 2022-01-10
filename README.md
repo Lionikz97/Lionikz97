@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lionikz97
 - 👀 I’m interested in something new
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking someone to help me doing my final year project as handwriting recognition arabic dictionary 
+- 💞️ I’m looking to contribute to each others
 - 📫 tengkuasiah@gmail.com
 
 <!---
