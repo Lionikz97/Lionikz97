@@ -11,7 +11,7 @@ Here are the programming languages my reposetories on github are usually in. The
 
 # My Stats on Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lionikz@97&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lionikz@97&show_icons=true&theme=gruvbox)
 
 <!---
 Lionikz97/Lionikz97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
